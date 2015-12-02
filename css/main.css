@@ -27,8 +27,13 @@ body {
 
 }
 
+h3 {
+	color: #8e44ad;
+}
 
-
+.label {
+	color: whitesmoke;
+}
 
 /* Media Queries */
 
