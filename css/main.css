@@ -35,6 +35,53 @@ h3 {
 	color: whitesmoke;
 }
 
+/* Pictures */
+
+.mariowii {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.mariobros {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.gtav {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.wiisports {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.tetris {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+/* Overlay */
+
+/*#overlay {
+	background: rgba(0, 0, 0, 0.7);
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: none;
+	background-image: url(../images/studykopia.jpg);
+	background-size: 30%;
+	background-repeat: no-repeat;
+	background-position: center;*/
+
+
 /* Media Queries */
 
 
@@ -47,4 +94,8 @@ h3 {
 		display: block;
 	}
 
+}
+
+img {
+	display: none;
 }
