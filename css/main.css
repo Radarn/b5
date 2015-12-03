@@ -66,20 +66,7 @@ h3 {
 	height: 200px;
 	border-radius: 50%;
 }
-/* Overlay */
 
-/*#overlay {
-	background: rgba(0, 0, 0, 0.7);
-	width: 100%;
-	height: 100%;
-	position: absolute;
-	left: 0;
-	top: 0;
-	display: none;
-	background-image: url(../images/studykopia.jpg);
-	background-size: 30%;
-	background-repeat: no-repeat;
-	background-position: center;*/
 
 
 /* Media Queries */
